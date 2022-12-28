@@ -42,3 +42,8 @@ vi ./oqs-scripts/build_liboqs.sh
 ```
 oqs-test/run_tests.sh
 ```
+# Location of your test keys
+/opt/openssh/oqs-test/tmp
+
+# Location of your binaries
+/opt/openssh/oqs-test/tmp/sbin
